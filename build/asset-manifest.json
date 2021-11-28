@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Aquila-Parametric-Fire-Insurance/static/css/main.2f7b8ebb.chunk.css",
+    "main.js": "/Aquila-Parametric-Fire-Insurance/static/js/main.5ebde7c0.chunk.js",
+    "main.js.map": "/Aquila-Parametric-Fire-Insurance/static/js/main.5ebde7c0.chunk.js.map",
+    "runtime-main.js": "/Aquila-Parametric-Fire-Insurance/static/js/runtime-main.64684916.js",
+    "runtime-main.js.map": "/Aquila-Parametric-Fire-Insurance/static/js/runtime-main.64684916.js.map",
+    "static/js/2.898b32f5.chunk.js": "/Aquila-Parametric-Fire-Insurance/static/js/2.898b32f5.chunk.js",
+    "static/js/2.898b32f5.chunk.js.map": "/Aquila-Parametric-Fire-Insurance/static/js/2.898b32f5.chunk.js.map",
+    "index.html": "/Aquila-Parametric-Fire-Insurance/index.html",
+    "static/css/main.2f7b8ebb.chunk.css.map": "/Aquila-Parametric-Fire-Insurance/static/css/main.2f7b8ebb.chunk.css.map",
+    "static/js/2.898b32f5.chunk.js.LICENSE.txt": "/Aquila-Parametric-Fire-Insurance/static/js/2.898b32f5.chunk.js.LICENSE.txt",
+    "static/media/desktopHero.8c2ca7ec.png": "/Aquila-Parametric-Fire-Insurance/static/media/desktopHero.8c2ca7ec.png",
+    "static/media/mobileHero.615cd48c.png": "/Aquila-Parametric-Fire-Insurance/static/media/mobileHero.615cd48c.png",
+    "static/media/treelineLg.8b53be6d.png": "/Aquila-Parametric-Fire-Insurance/static/media/treelineLg.8b53be6d.png",
+    "static/media/treelineSm.b15b868d.png": "/Aquila-Parametric-Fire-Insurance/static/media/treelineSm.b15b868d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64684916.js",
+    "static/js/2.898b32f5.chunk.js",
+    "static/css/main.2f7b8ebb.chunk.css",
+    "static/js/main.5ebde7c0.chunk.js"
+  ]
+}
